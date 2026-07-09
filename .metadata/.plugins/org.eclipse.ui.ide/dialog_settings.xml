@@ -7,6 +7,11 @@
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_SKIP_DOT_FOLDERS" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\KHBS_D_28\Downloads\09배열.zip"/>
+			<item value="C:\Users\KHBS_D_28\Downloads\08반복문보조제어문 (2).zip"/>
+			<item value="C:\Users\KHBS_D_28\Downloads\07조건문과반복문활용 (1).zip"/>
+			<item value="C:\Users\KHBS_D_28\Downloads\08반복문보조제어문.zip"/>
+			<item value="C:\Users\KHBS_D_28\Downloads\07조건문과반복문활용.zip"/>
 			<item value="C:\Users\KHBS_D_28\Downloads\06반복문.zip"/>
 			<item value="C:\Users\KHBS_D_28\Downloads\05조건문.zip"/>
 			<item value="C:\Users\KHBS_D_28\Downloads\04연산자 (1).zip"/>
@@ -16,7 +21,7 @@
 			<item value="C:\Users\KHBS_D_28\Downloads\03자료형.zip"/>
 		</list>
 		<section name="SmartImportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="228"/>
+			<item key="DIALOG_X_ORIGIN" value="269"/>
 			<item key="DIALOG_Y_ORIGIN" value="95"/>
 			<item key="DIALOG_WIDTH" value="888"/>
 			<item key="DIALOG_HEIGHT" value="710"/>
@@ -24,14 +29,24 @@
 		</section>
 	</section>
 	<section name="ExternalProjectImportWizard">
-		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_SKIP_DOT_FOLDERS" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\KHBS_D_28\Desktop\09배열"/>
+			<item value="C:\Users\KHBS_D_28\Desktop\workspace_java\06반복문"/>
+			<item value="C:\Users\KHBS_D_28\Desktop\workspace_java\05조건문"/>
+			<item value="C:\Users\KHBS_D_28\Desktop\workspace_java\04연산자"/>
+			<item value="C:\Users\KHBS_D_28\Desktop\workspace_java\03자료형"/>
+			<item value="C:\Users\KHBS_D_28\Desktop\workspace_java\09배열"/>
 			<item value=""/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+			<item value="C:\Users\KHBS_D_28\Downloads\09배열.zip"/>
 			<item value="C:\Users\KHBS_D_28\Downloads\03자료형.zip"/>
 		</list>
 		<section name="ExternalProjectImportWizard.dialogBounds">
@@ -41,5 +56,12 @@
 			<item key="DIALOG_HEIGHT" value="731"/>
 			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 		</section>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="320"/>
+		<item key="DIALOG_Y_ORIGIN" value="133"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_HEIGHT" value="580"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 </section>
