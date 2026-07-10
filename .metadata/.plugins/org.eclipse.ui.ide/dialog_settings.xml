@@ -7,6 +7,14 @@
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_SKIP_DOT_FOLDERS" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\KHBS_D_28\Desktop\09배열 (2).zip"/>
+			<item value="C:\Users\KHBS_D_28\Desktop\08반복문보조제어문 (4).zip"/>
+			<item value="C:\Users\KHBS_D_28\Desktop\07조건문과반복문활용 (2).zip"/>
+			<item value="C:\Users\KHBS_D_28\Desktop\06반복문 (1).zip"/>
+			<item value="C:\Users\KHBS_D_28\Desktop\05조건문 (1).zip"/>
+			<item value="C:\Users\KHBS_D_28\Desktop\04연산자 (2).zip"/>
+			<item value="C:\Users\KHBS_D_28\Desktop\03자료형 (3).zip"/>
+			<item value="C:\Users\KHBS_D_28\Desktop\02객체조작_메소드 (1).zip"/>
 			<item value="C:\Users\KHBS_D_28\Downloads\09배열.zip"/>
 			<item value="C:\Users\KHBS_D_28\Downloads\08반복문보조제어문 (2).zip"/>
 			<item value="C:\Users\KHBS_D_28\Downloads\07조건문과반복문활용 (1).zip"/>
@@ -36,6 +44,7 @@
 		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\KHBS_D_28\Desktop\09배열 (1)"/>
 			<item value="C:\Users\KHBS_D_28\Desktop\09배열"/>
 			<item value="C:\Users\KHBS_D_28\Desktop\workspace_java\06반복문"/>
 			<item value="C:\Users\KHBS_D_28\Desktop\workspace_java\05조건문"/>

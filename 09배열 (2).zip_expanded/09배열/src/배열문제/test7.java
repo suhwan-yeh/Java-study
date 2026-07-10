@@ -14,10 +14,24 @@ public class test7 {
 		//			 0   1  2  3  4   index	
 		int sum = 0;
 		
-		//(1)
-
-				
+		for(int number : arr) {
+			
+				sum += number; 
+			
+		}
 		
+		
+		/*
+		  	향상된 for 반복문 작성 방법 
+		  										      :[1,2,3]		 
+		  		for( 배열에서 차례대로 꺼내어 저장할 변수 선언 : 배열 ){
+		  		
+		  			위 변수에서 전달 받은 값을 반복해서 사용할 코드;
+		  		
+		  		}
+		  
+		  
+		 */
 		System.out.println("sum="+sum);	
 	}
 
