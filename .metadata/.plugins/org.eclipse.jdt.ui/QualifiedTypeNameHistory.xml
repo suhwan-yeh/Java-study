@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="double"/>
+    <fullyQualifiedTypeName name="BookTest"/>
+    <fullyQualifiedTypeName name="PetTest"/>
+    <fullyQualifiedTypeName name="CoffeeOrderTest"/>
+    <fullyQualifiedTypeName name="GymMemberTest"/>
+    <fullyQualifiedTypeName name="ParkingLotTest"/>
 </qualifiedTypeNameHistroy>
