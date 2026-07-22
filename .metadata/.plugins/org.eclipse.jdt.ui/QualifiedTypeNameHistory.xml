@@ -7,4 +7,8 @@
     <fullyQualifiedTypeName name="GymMemberTest"/>
     <fullyQualifiedTypeName name="ParkingLotTest"/>
     <fullyQualifiedTypeName name="BankAccountTest"/>
+    <fullyQualifiedTypeName name="FruitSeller"/>
+    <fullyQualifiedTypeName name="FruitBuyer"/>
+    <fullyQualifiedTypeName name="test2.Car"/>
+    <fullyQualifiedTypeName name="test1.Smartphone"/>
 </qualifiedTypeNameHistroy>

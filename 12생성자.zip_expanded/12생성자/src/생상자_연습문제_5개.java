@@ -23,27 +23,28 @@
 //  - 기본 생성자: name="무명", age=0 으로 초기화
 //  - 매개변수 생성자: 이름과 나이를 전달받아 초기화
 //=========================================================================
-class Student{	
-	//[1] 객체 변수 정의 
-	String name;   //학생 이름
-	int age;       //학생 나이 
-	
-	//[2] 기본 생성자 정의 
+class Student {
+	// [1] 객체 변수 정의
+	String name; // 학생 이름
+	int age; // 학생 나이
+
+	// [2] 기본 생성자 정의
 	public Student() {
 		name = "무명";
 		age = 0;
 	}
-	
-	//[3] 매개변수가 있는 생성자 정의 
+
+	// [3] 매개변수가 있는 생성자 정의
 	public Student(String name_, int age_) {
-					//   "홍길동",     20		
+		// "홍길동", 20
 		name = name_;
 //		     = "홍길동";
-		     
+
 		age = age_;
 //			= 20;
 	}
 }
+
 //=========================================================================
 //연습2. 은행계좌(BankAccount) 클래스
 //-------------------------------------------------------------------------
@@ -52,29 +53,79 @@ class Student{
 //- 기본 생성자: owner="미지정", balance=0
 //- 매개변수 생성자: 예금주와 첫 입금액을 전달받아 초기화
 //=========================================================================
-class BankAccount{
-	//[1] 객체 변수 정의
-	String owner;     //예금주 이름
-	int   balance;    //계좌 잔액
-	
-	//[2] 기본 생성자 정의
+class BankAccount {
+	// [1] 객체 변수 정의
+	String owner; // 예금주 이름
+	int balance; // 계좌 잔액
+
+	// [2] 기본 생성자 정의
 	public BankAccount() {
 		owner = "미지정";
 		balance = 0;
 	}
-	
-	//[3] 매개변수가 있는 생성자 정의
-	public BankAccount(String owner_,  int balance_) {
-						// "김길동"   ,      50000
-		
+
+	// [3] 매개변수가 있는 생성자 정의
+	public BankAccount(String owner_, int balance_) {
+		// "김길동" , 50000
+
 		owner = owner_;
-		//    = "김길동";
-		
+		// = "김길동";
+
 		balance = balance_;
-		//      = 50000;
-		
+		// = 50000;
+
 	}
 }
+
+class phone {
+	String model;
+	int storage;
+
+	public phone() {
+		model = "미정";
+		storage = 128;
+	}
+	public phone(String model) {
+		
+		
+	} 
+	
+}
+
+
+class Pizza{
+	String name;
+	String size;
+	int price;
+	
+public Pizza(){
+	name = "치즈피자";
+	size = "M";
+	price = 15000;
+	
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 public class 생상자_연습문제_5개 {
 
@@ -129,12 +180,3 @@ public class 생상자_연습문제_5개 {
 	}
 
 }
-
-
-
-
-
-
-
-
-
