@@ -38,10 +38,9 @@ public class test8 {
 		}
 		
 		//(2) 평균계산 코드 작성
-		average = 
 		
 		
-		System.out.println("total=" + total);
+		
 		System.out.println("average="+average);
 		
 	}

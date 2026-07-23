@@ -11,4 +11,10 @@
     <fullyQualifiedTypeName name="FruitBuyer"/>
     <fullyQualifiedTypeName name="test2.Car"/>
     <fullyQualifiedTypeName name="test1.Smartphone"/>
+    <fullyQualifiedTypeName name="Calculator"/>
+    <fullyQualifiedTypeName name="com.company.app.MainApp"/>
+    <fullyQualifiedTypeName name="com.company.tools.MathTool"/>
+    <fullyQualifiedTypeName name="com.myapp.models.User"/>
+    <fullyQualifiedTypeName name="com.external.models.User"/>
+    <fullyQualifiedTypeName name="Ex1"/>
 </qualifiedTypeNameHistroy>
