@@ -35,6 +35,7 @@ class ColorPoint extends Point{
 }
 
 public class ColorPointEx {
+	
 	public static void main(String[] args) {
 		
 		Point p = new Point(); //Point 객체 생성

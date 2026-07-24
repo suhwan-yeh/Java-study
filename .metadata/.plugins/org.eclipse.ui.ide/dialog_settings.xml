@@ -7,6 +7,10 @@
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_SKIP_DOT_FOLDERS" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\KHBS_D_28\Downloads\17상속관계_생성자_호출_및_실행순서.zip"/>
+			<item value="C:\Users\KHBS_D_28\Downloads\16상속&amp;접근제어자 (1).zip"/>
+			<item value="C:\Users\KHBS_D_28\Downloads\16상속&amp;접근제어자.zip"/>
+			<item value="C:\Users\KHBS_D_28\Downloads\EX.zip"/>
 			<item value="C:\Users\KHBS_D_28\Desktop\12생성자.zip"/>
 			<item value="C:\Users\KHBS_D_28\Downloads\12생성자.zip"/>
 			<item value="C:\Users\KHBS_D_28\Downloads\학생제공2.zip"/>
@@ -35,9 +39,9 @@
 			<item value="C:\Users\KHBS_D_28\Downloads\03자료형.zip"/>
 		</list>
 		<section name="SmartImportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="247"/>
+			<item key="DIALOG_X_ORIGIN" value="274"/>
 			<item key="DIALOG_Y_ORIGIN" value="95"/>
-			<item key="DIALOG_WIDTH" value="888"/>
+			<item key="DIALOG_WIDTH" value="978"/>
 			<item key="DIALOG_HEIGHT" value="710"/>
 			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 		</section>
