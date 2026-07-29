@@ -17,4 +17,8 @@
     <fullyQualifiedTypeName name="com.myapp.models.User"/>
     <fullyQualifiedTypeName name="com.external.models.User"/>
     <fullyQualifiedTypeName name="Ex1"/>
+    <fullyQualifiedTypeName name="jdk.internal.org.jline.terminal.TerminalBuilder.SystemOutput"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="FullTimeEmployee"/>
 </qualifiedTypeNameHistroy>
