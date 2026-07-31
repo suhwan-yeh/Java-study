@@ -21,4 +21,7 @@
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
     <fullyQualifiedTypeName name="FullTimeEmployee"/>
+    <fullyQualifiedTypeName name="Ex.Alarm"/>
+    <fullyQualifiedTypeName name="Ex.Alarm.Ringer"/>
+    <fullyQualifiedTypeName name="pack2.B"/>
 </qualifiedTypeNameHistroy>
