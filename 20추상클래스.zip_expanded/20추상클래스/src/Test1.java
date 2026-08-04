@@ -79,6 +79,18 @@ abstract class Employee {
 			this.baseSalary = baseSalary;
 			this.bonus = bonus;
 		}
+
+		@Override
+		public int calculateSalary() {
+			// TODO Auto-generated method stub
+			return 0;
+		}
+
+		@Override
+		public void printPayslip(String month) {
+			// TODO Auto-generated method stub
+			
+		}
 	}
 	
 
