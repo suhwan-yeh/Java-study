@@ -22,7 +22,6 @@ INDEX VERSION 1.134+C:\Users\KHBS_D_28\Desktop\workspace_java\.metadata\.plugins
 3061022608.index
 2012481857.index
 1308787607.index
-584811735.index
 522258557.index
 4215093915.index
 965019277.index
