@@ -7,6 +7,10 @@
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_SKIP_DOT_FOLDERS" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\KHBS_D_28\Downloads\25컬렉션그리고제네릭2.zip"/>
+			<item value="C:\Users\KHBS_D_28\Downloads\25컬렉션그리고제네릭 (5).zip"/>
+			<item value="C:\Users\KHBS_D_28\Downloads\25컬렉션그리고제네릭 (4).zip"/>
+			<item value="C:\Users\KHBS_D_28\Downloads\25컬렉션그리고제네릭 (3).zip"/>
 			<item value="C:\Users\KHBS_D_28\Downloads\25컬렉션그리고제네릭 (2).zip"/>
 			<item value="C:\Users\KHBS_D_28\Downloads\25컬렉션그리고제네릭 (1).zip"/>
 			<item value="C:\Users\KHBS_D_28\Downloads\25컬렉션그리고제네릭.zip"/>
@@ -66,7 +70,7 @@
 			<item value="C:\Users\KHBS_D_28\Downloads\03자료형.zip"/>
 		</list>
 		<section name="SmartImportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="308"/>
+			<item key="DIALOG_X_ORIGIN" value="198"/>
 			<item key="DIALOG_Y_ORIGIN" value="95"/>
 			<item key="DIALOG_WIDTH" value="888"/>
 			<item key="DIALOG_HEIGHT" value="710"/>
