@@ -87,7 +87,9 @@ class SmsThread extends Thread {
     public void run() {
 
         //여기에 TODO 2 의 for 문을 작성하시오
-
+    	for (int i = 1; i <= 3; i++) {
+            System.out.println(getName() + " : " + i);
+        }
     }   //run 메소드의 끝
 
 }   //SmsThread 클래스의 끝
@@ -121,7 +123,9 @@ class EmailTask implements Runnable {
     public void run() {
 
         //여기에 TODO 4 의 for 문을 작성하시오
-
+    	 for (int i = 1; i <= 3; i++) {
+             System.out.println(Thread.currentThread().getName() + " : " + i);
+         }
     }   //run 메소드의 끝
 
 }   //EmailTask 클래스의 끝
