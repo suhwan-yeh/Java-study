@@ -21,6 +21,8 @@
  *     다른 클래스를 상속할 수 없다. Runnable은 인터페이스라 제약이 없다.
  */
 
+//주제. 방법2. 스레드 만드는 방법을 삭제하고!  람다식 작성 방법으로 스레드를 만들어 사용할수 있도록 수정.
+
 //방법1. Thread 클래스 상속 하여 하나의 작업흐름을 처리하는 일꾼(개발자가 직접 만드는 스레드)을 만든다
 class MyThread  extends Thread {
 	
@@ -40,7 +42,22 @@ class MyThread  extends Thread {
 
 //방법2. Runnable 인터페이스안에 만들어져 있는 run 추상메소드를 오버라이딩 하여 하나의 작업을 처리하는 일꾼(개발자가 직접 만드는 스레드)을 만든다
 //-----> 코드 삭제 이유  : 람다식으로 작성을 해서 사용하기 위해 
+/*
+ 삭제 코드 주석처리!!!!!!!
+class MyRunnable implements Runnable{
 
+	//Runnable 인터페이스의 유일한 추상 메소드 run()을 구현한다
+	@Override
+	public void run() { //할일 : 1 부터  3까지 반복해서 출력		
+		for(int i=1;  i<=3;  i++) {
+			//현재 작업하고 있는 스레드 이름을 얻어 출력할때
+			//Runnable 인터페이스에는 getName() 메소드가 없으므로
+			//Thread.currentThread() 메소드로 현재 작업중 스레드 객체를 얻고 이름을 얻어 낸다
+			System.out.println(Thread.currentThread().getName() + " 실행 : " + i );
+		}		
+	}
+}
+*/
 
 public class Thread01_Create {
 
